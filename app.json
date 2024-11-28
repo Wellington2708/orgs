@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "react-native-comecando-do-zero",
-    "slug": "react-native-comecando-do-zero",
+    "name": "orgs",
+    "slug": "orgs",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/topo.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
